@@ -1,0 +1,15 @@
+{
+  "name": "logmanagement-sample",
+  "version": "0.0.1",
+  "authors": [
+    "lightszentip <lightszentip@gmail.com>"
+  ],
+  "license": "APACHE v2",
+  "private": true,
+ "dependencies": {
+    "angular": "1.2.x",
+    "angular-route": "1.2.x",
+    "angular-loader": "1.2.x",
+    "bootstrap": "~3.1.1"
+  }
+}

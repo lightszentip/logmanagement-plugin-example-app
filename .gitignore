@@ -1,0 +1,12 @@
+.eclipse-pmd
+.classpath
+.gradle/**
+.gradle/
+build/
+.settings/
+.project
+bin/
+*.prefs
+.springBeans
+gradle/
+target/
